@@ -1,6 +1,6 @@
 # Oministack Week 
 
-![Heroku Status](https://heroku-badge.herokuapp.com/?app=cardapio-f)
+![Heroku Status](https://heroku-badge.herokuapp.com/?app=oministack-f)
 
 
 ### project made with React
