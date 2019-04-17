@@ -1,5 +1,5 @@
 {
-  "main.css": "/oministack-frontend/static/css/main.3a5dbbf6.chunk.css",
+  "main.css": "/oministack-frontend/static/css/main.3a0b417c.chunk.css",
   "main.js": "/oministack-frontend/static/js/main.fc931cdb.chunk.js",
   "main.js.map": "/oministack-frontend/static/js/main.fc931cdb.chunk.js.map",
   "runtime~main.js": "/oministack-frontend/static/js/runtime~main.94352f9c.js",
@@ -7,8 +7,8 @@
   "static/js/2.bbeb62c1.chunk.js": "/oministack-frontend/static/js/2.bbeb62c1.chunk.js",
   "static/js/2.bbeb62c1.chunk.js.map": "/oministack-frontend/static/js/2.bbeb62c1.chunk.js.map",
   "index.html": "/oministack-frontend/index.html",
-  "precache-manifest.9f7fe3328e1c084334009e1ce8c5b2c5.js": "/oministack-frontend/precache-manifest.9f7fe3328e1c084334009e1ce8c5b2c5.js",
+  "precache-manifest.fafa9bd416628dfa3be1930b34ae77d9.js": "/oministack-frontend/precache-manifest.fafa9bd416628dfa3be1930b34ae77d9.js",
   "service-worker.js": "/oministack-frontend/service-worker.js",
-  "static/css/main.3a5dbbf6.chunk.css.map": "/oministack-frontend/static/css/main.3a5dbbf6.chunk.css.map",
+  "static/css/main.3a0b417c.chunk.css.map": "/oministack-frontend/static/css/main.3a0b417c.chunk.css.map",
   "static/media/logo.svg": "/oministack-frontend/static/media/logo.2e06992f.svg"
 }

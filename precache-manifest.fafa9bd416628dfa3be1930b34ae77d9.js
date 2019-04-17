@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/oministack-frontend/static/js/runtime~main.94352f9c.js"
   },
   {
-    "revision": "526af50d34d016f7278f",
+    "revision": "8d266c1d2ffc4552127c",
     "url": "/oministack-frontend/static/js/main.fc931cdb.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/oministack-frontend/static/js/2.bbeb62c1.chunk.js"
   },
   {
-    "revision": "526af50d34d016f7278f",
-    "url": "/oministack-frontend/static/css/main.3a5dbbf6.chunk.css"
+    "revision": "8d266c1d2ffc4552127c",
+    "url": "/oministack-frontend/static/css/main.3a0b417c.chunk.css"
   },
   {
-    "revision": "055d556c909d69314115861950baefc6",
+    "revision": "98e41b30388155c3ad464f1d650f1071",
     "url": "/oministack-frontend/index.html"
   }
 ];
